@@ -1,4 +1,4 @@
-# Week-01 [OWASP Rating Methodology]{https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology}
+# Week-01 [OWASP Rating Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)
 ## Explain The Two Sets of Factors: __Threat Agents__ and __Vulnerability__
 ### Threat Agents:
 A __Theat Agent__ is the source of your security concerns. The "Attackers" if you will.
